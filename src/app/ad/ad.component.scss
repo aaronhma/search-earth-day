@@ -1,0 +1,10 @@
+.sessionId {
+  position: absolute;
+  user-select: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  background: url(https://www.pptgrounds.com/wp-content/uploads/2014/07/Earth-Day-Powerpoint-Backgrounds.jpg) center center / 100% no-repeat;
+  transition: opacity 2s;
+}
